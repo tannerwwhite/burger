@@ -1,0 +1,32 @@
+{
+  "name": "burger",
+  "version": "0.0.1",
+  "description": "Burger Creator",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql2": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannerwwhite/burger.git"
+  },
+  "keywords": [
+    "Burger",
+    "Making"
+  ],
+  "author": "Tanner W White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannerwwhite/burger/issues"
+  },
+  "homepage": "https://github.com/tannerwwhite/burger#readme"
+}

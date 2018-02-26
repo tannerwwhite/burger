@@ -1,0 +1,61 @@
+html {
+    background-image: url("/assets/images/burgers.png");
+    background-color: rgb(255, 166, 0);
+}
+
+body {
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+    background-color: grey;
+    border: 2px solid black;
+    font-family: 'Combo', cursive;
+}
+
+h1 {
+    font-family: 'Sofadi One', cursive;
+    color: black;
+    font-size: 65px;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(255, 166, 0);
+    margin: 0px 0px 77px 0px;
+    padding: 35px 0px 10px 0px;
+    border-bottom: 2px solid black;
+}
+
+footer {
+    width: 100%;
+    font-family: 'Sofadi One', cursive;
+    color: black;
+    background-color: rgb(255, 166, 0);
+    font-size: 16px;
+    margin: 60px 0px 0px 0px;
+    padding: 20px;
+    border-top: 2px solid black;
+}
+
+#burgerAvail {
+    background-color: rgb(255, 203, 106);
+    padding: 5px 5px 5px 5px;
+    border: 2px solid black;
+}
+
+#burgerEat {
+    background-color: rgb(255, 203, 106);
+    padding: 5px 5px 5px 5px;
+    border: 2px solid black;
+}
+
+#burger {
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+}
+
+#submit {
+    color: white;
+    font-weight: 700;
+}
