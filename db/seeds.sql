@@ -1,4 +1,7 @@
 
-INSERT INTO burgers (name) VALUES ('Ultimate Sin');
-INSERT INTO burgers (name) VALUES ('Fatty Patty');
-INSERT INTO burgers (name) VALUES ('Guts & Glory');
+USE burgers_db;
+
+INSERT INTO burgers (burger_name)
+VALUES ("Fat Man Burger"),
+("Lil Eater"),
+("Super Triple Double");

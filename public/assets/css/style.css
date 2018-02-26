@@ -1,0 +1,39 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background-color: #18ac38;
+}
+
+#title-box {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif, cursive;
+}
+
+#burger-title-img {
+    display: block;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.change-devour {
+    float: right;
+}
+
+#add-burger {
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#reset-all {
+    color: black position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
